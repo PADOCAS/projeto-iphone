@@ -1,18 +1,13 @@
-## Getting Started
+# Desafio de Projeto (DIO) - Diagramação de Classes do iPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+* <b>Desafio:</b>
+* Fazer o diagrama de classes e interfaces com base na estrutura do iphone (resumidamente), depois criar os arquivos em Java.
 
-## Folder Structure
+* Exercicío faz parte do SanSantander Bootcamp 2023 - Fullstack Java+Angular
 
-The workspace contains two folders by default, where:
+* Segue link do Bootcamp para quem tiver interesse: <a href="https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular/" target="_blank" rel="noreferrer">FullStack Java+Angular</a>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<h3 align="left">Tecnologias:</h3>
+<p align="left"> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
+</p>
